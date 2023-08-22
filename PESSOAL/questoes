@@ -1,0 +1,10 @@
+Escreva um programa que calcule a soma dos números de 1 a 100.
+Crie uma função que receba um número como parâmetro e verifique se ele é primo.
+Implemente uma função que inverta uma string fornecida como entrada.
+Escreva um programa que leia um número inteiro do usuário e imprima se ele é par ou ímpar.
+Crie uma função que receba uma lista como parâmetro e retorne uma nova lista apenas com os números pares.
+Faça um programa que leia uma frase e conte quantas vezes cada palavra aparece.
+Implemente uma função recursiva para calcular o fatorial de um número.
+Escreva um programa que leia uma lista de números e imprima o maior e o menor número da lista.
+Crie uma função que verifique se uma palavra é um palíndromo (ou seja, se pode ser lida da mesma forma de trás para frente).
+Faça um programa que leia um arquivo de texto e conte quantas vezes cada palavra aparece no texto.
